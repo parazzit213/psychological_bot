@@ -1,4 +1,4 @@
-API_TOKEN = '7700315837:AAEb-1eJbJwnEP9A6mcZrCspbTpF8fdG3cQ'
+API_TOKEN = '7700315837:AAFrZiFSoDzCozUQ8o3xsmiYI6mGcVZaLao'
 
 LANGUAGES = {
     'en': 'English',
